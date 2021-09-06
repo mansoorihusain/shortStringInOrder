@@ -17,6 +17,6 @@ class Sort{
 			}
 			
 		}
-		System.out.print(a);
+		System.out.println("string shor in alphbatical order: "+a);
 	}
 }
