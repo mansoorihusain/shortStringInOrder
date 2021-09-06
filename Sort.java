@@ -17,6 +17,6 @@ class Sort{
 			}
 			
 		}
-		System.out.print(a);
+		System.out.println("String shorting order"+a);
 	}
 }
